@@ -1,0 +1,13 @@
+I made an online backgammon game for Android. This is my first Android app, so it might suck (hopefully not too much).
+
+It's kinda like WordFeud or Wordwise (or Words with Friends), but backgammon instead of scrabble. 
+
+Since you guys are awesome, you can [download it here](http://dl.drakeapps.com/BackgammonReddit.apk) for free. 
+
+It's also on the market for $0.99. Search for Backgammon Online to find it. 
+
+I tested it on the emulator and my friend's EVO, and it seemed to work really well. I don't have one of these fancy phones myself, or else it would've had more testing.
+
+Let me know what you think and if you find any problems with it (which I'm sure there will be)
+
+Note: It doesn't do notifications. You have to open the app and go to the online part. I'll try to put notifications in it soon.

@@ -1,0 +1,9 @@
+Multiplayer Backgammon game. Currently limited to 2 players on a single device. Online multiplayer coming soon.
+
+* Added high resolution graphics. Also fixed 2 bugs *
+
+** This is an alpha release. Email/GTalk james@drakeapps.com about any problems or suggestions**
+
+Coming soon:
+* Doubling & Total score
+* Online multiplayer

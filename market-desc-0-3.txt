@@ -1,0 +1,9 @@
+Multiplayer Backgammon game. Supports 2 player local and online game play. 
+
+Must have an internet connection to play online.
+
+* Added online support! *
+
+Coming soon:
+* Notifications
+* Doubling and Total Score
